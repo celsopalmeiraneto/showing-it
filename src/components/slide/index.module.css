@@ -1,0 +1,35 @@
+.slide {
+  background-color: #3c3c3c;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+}
+
+.slide h1{
+  font-size: 5em;
+  font-weight: 300;
+  text-align: center;
+  text-shadow: 2px 2px 3px black;
+}
+
+.slide>.body{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 2;
+  font-size: 4em;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+.imageContent {
+  flex: 3;
+  display: flex;
+  justify-content: center;
+}
+
+.textualContent {
+  flex: 7;
+}

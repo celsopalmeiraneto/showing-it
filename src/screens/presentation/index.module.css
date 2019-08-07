@@ -1,0 +1,23 @@
+.nav {
+  height: 100vh;
+  position: absolute;
+}
+.nav img{
+  height: 5em;
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -100%);
+  opacity: 0.1;
+}
+.nav img:hover{
+  height: 5.5em;
+  opacity: 0.5;
+}
+.nav.next{
+  right: 4%;
+}
+.nav.next img{
+  transform: translate(0%, -100%) rotate(180deg);
+}
+.nav.previous{
+}

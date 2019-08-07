@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Slide 01",
+    "bullets": [
+      "b1",
+      "b2",
+      "b2",
+      "b2",
+      "b2",
+      "b2",
+      "b2",
+      "b2",
+      "b3"
+    ],
+    "img": {
+      "src": "https://celsoneto.com.br/img/gallery/pic01-thumb.jpg",
+      "alt": "Celso criança"
+    }
+  },
+  {
+    "title": "Slide 02",
+    "text": "O rato roeu a roupa do rei de Roma.",
+    "img": {
+      "src": "https://celsoneto.com.br/img/gallery/pic02-thumb.jpg",
+      "alt": "Celso criança"
+    }
+  },
+  {
+    "title": "Slide 03",
+    "img": {
+      "src": "https://celsoneto.com.br/img/gallery/pic02-thumb.jpg",
+      "alt": "Celso criança"
+    }
+  }
+]
