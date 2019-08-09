@@ -26,8 +26,8 @@ function Content({settings}) {
     <div>
       <h1>{settings.title}</h1>
       <div className={styles.body}>
-        {settings.bullets && Bullets(settings.bullets)}
         {settings.text && Text(settings.text)}
+        {settings.bullets && Bullets(settings.bullets)}
         {settings.imgs && Images(settings.imgs)}
       </div>
     </div>
