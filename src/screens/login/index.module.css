@@ -1,0 +1,23 @@
+.login {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #97979780;
+}
+
+.box {
+  font-size: 1.3em;
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.formGroup {
+  margin: 0px 0px 10px 0px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+}

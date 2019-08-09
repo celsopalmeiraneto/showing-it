@@ -1,12 +1,18 @@
-import React from 'react';
+import {LocalPresentation} from './screens/presentation/LocalPresentation.js';
+import {Login} from './screens/login';
+import {Router} from "@reach/router";
+import React, {useState} from 'react';
 import styles from './App.module.css';
 
-import {Login} from './screens/login'
-
 function App() {
+  const [loginInfo, setLoginInfo] = useState({});
+
   return (
     <div className={styles.App}>
-      <Login/>
+      <Router>
+        <Login path="/"></Login>
+        <LocalPresentation path="presentation/local/:presentation/:slideIndex"></LocalPresentation>
+      </Router>
     </div>
   );
 }

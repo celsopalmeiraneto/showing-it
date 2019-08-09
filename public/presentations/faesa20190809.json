@@ -1,0 +1,154 @@
+{
+   "slides":[
+      {
+        "cover": true,
+        "title": "O caminho até aqui.",
+        "subtitle": "FAESA, 09 de Agosto de 2019"
+      },
+      {
+        "title": "Avisos",
+        "bullets": [
+          "Minha carreira é um trabalho em andamento.",
+          "Nada aqui é \"verdade absoluta\".",
+          "Não existe \"receita de bolo\" para a vida."
+        ]
+      },
+      {
+        "cover": true,
+        "title": "Carreira"
+      },
+      {
+         "bullets":[
+            "Foco no Cliente",
+            "Como ouvir o Cliente?",
+            "O que vai, de fato, solucionar o problema?"
+         ],
+         "imgs":[
+           {
+              "alt": "Celso aos 17 anos.",
+              "src":"/presentations/faesa20190809/servinn.jpg"
+           }
+         ],
+         "title":"Servinn Webservice"
+      },
+      {
+        "bullets":[
+           "Desafio técnico.",
+           "Clientes distribuídos.",
+           "Mudanças constantes de prioridades."
+        ],
+         "imgs":[
+           {
+           "alt":"Celso aos 22 anos",
+           "src":"/presentations/faesa20190809/sep.jpg"
+           }
+         ],
+         "title":"Governo do ES - SEP"
+      },
+      {
+        "bullets":[
+           "Valor da Academia.",
+           "Converse com estranhos.",
+           "Tente.",
+           "Aprenda com as diferenças."
+        ],
+        "imgs": [
+           {
+             "alt":"Intel Roadshow",
+             "src":"/presentations/faesa20190809/baruch01.jpg"
+           },
+           {
+             "alt":"Angelhack Brooklyn",
+             "src":"/presentations/faesa20190809/baruch02.jpg"
+           }
+         ],
+         "title":"Baruch College, CUNY"
+      },
+      {
+        "bullets":[
+           "Trabalho em equipe.",
+           "Projetos curtos vs projetos longos.",
+           "Fazer algo novo vs usar algo do mercado?",
+           "Comunicação.",
+           "Amizades."
+        ],
+        "imgs": [
+           {
+             "alt":"Celso na INFLOR",
+             "src":"/presentations/faesa20190809/inflor.jpg"
+           }
+         ],
+         "title":"INFLOR"
+      },
+      {
+        "bullets":[
+           "Zero to Hero.",
+           "Sem ajuda não dá.",
+           "Sem ajuda não dá.",
+           "Sem ajuda não dá.",
+           "Comunidade.",
+           "Apredizado, Soft Skills."
+        ],
+        "imgs": [
+           {
+             "alt":"Povo do HF1",
+             "src":"/presentations/faesa20190809/hf1.jpg"
+           }
+         ],
+         "title":"HACKFAESA"
+      },
+      {
+        "bullets":[
+           "Assertividade.",
+           "Compartilhar.",
+           "Ouvir.",
+           "Não reinventar a roda."
+        ],
+        "imgs": [
+           {
+             "alt":"Povo do HF1",
+             "src":"/presentations/faesa20190809/onegrid.jpg"
+           }
+         ],
+         "title":"ONEGRID"
+      },
+      {
+        "bullets":[
+           "Respeito.",
+           "Diga: bom dia!!!!",
+           "Coragem para dizer: \"eu não sei\".",
+           "Aprender junto.",
+           "Chame a atenção quando necessário.",
+           "Avise sobre um problema o mais cedo possível.",
+           "Pense no Cliente.",
+           "Faça contra-pontos."
+        ],
+         "title":"Como ser um bom colega de trabalho?"
+      },
+      {
+        "cover": true,
+        "title": "A Tecnogia é um meio, não um fim!!!",
+        "img": {
+          "alt":"Thanks",
+          "src":"/presentations/faesa20190809/duh.gif"
+        }
+      },
+      {
+        "cover": true,
+        "title": "Evite mandar bem na Festinha NERD."
+      },
+      {
+        "title": "Valeu!!!",
+        "bullets":[
+           "https://celsoneto.com.br",
+           "neto@celsoneto.com.br"
+        ],
+        "imgs": [
+           {
+             "alt":"Thanks",
+             "src":"/presentations/faesa20190809/thanks.gif"
+           }
+         ]
+      }
+   ]
+}
